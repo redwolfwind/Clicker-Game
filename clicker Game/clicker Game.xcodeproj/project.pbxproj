@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		59C817BE292DBA6E005B28E9 /* templates */ = {isa = PBXFileReference; lastKnownFileType = folder; path = templates; sourceTree = "<group>"; };
+		59C817BF292DBA82005B28E9 /* static */ = {isa = PBXFileReference; lastKnownFileType = folder; path = static; sourceTree = "<group>"; };
+		59C817C0292DBB00005B28E9 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		59504F03291DE5C700D18FAA = {
+			isa = PBXGroup;
+			children = (
+				59C817C0292DBB00005B28E9 /* main.py */,
+				59C817BF292DBA82005B28E9 /* static */,
+				59C817BE292DBA6E005B28E9 /* templates */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		59504F04291DE5C700D18FAA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+			};
+			buildConfigurationList = 59504F07291DE5C700D18FAA /* Build configuration list for PBXProject "clicker Game" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 59504F03291DE5C700D18FAA;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		59504F08291DE5C700D18FAA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		59504F09291DE5C700D18FAA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		59504F07291DE5C700D18FAA /* Build configuration list for PBXProject "clicker Game" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59504F08291DE5C700D18FAA /* Debug */,
+				59504F09291DE5C700D18FAA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 59504F04291DE5C700D18FAA /* Project object */;
+}
